@@ -21,5 +21,15 @@ const movies = [
     month: "May",
     watched: 2025,
   },
+   {
+    id: "M0003",
+    title: "Scarface",
+    year: 1983,
+    poster: "/shipofthesus.png",
+    review: "Brilliant Gangster drama",
+    director: "Brian De Palma",
+    month: "May",
+    watched: 2025,
+  },
 ];
 export default movies;
