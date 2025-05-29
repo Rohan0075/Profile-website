@@ -25,7 +25,7 @@ const movies = [
     id: "M0003",
     title: "Scarface",
     year: 1983,
-    poster: "/shipofthesus.png",
+    poster: "/scarface.jpg",
     review: "Brilliant Gangster drama",
     director: "Brian De Palma",
     month: "May",
